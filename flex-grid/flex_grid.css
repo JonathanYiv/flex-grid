@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+  padding-bottom: 15px;
+}
+
+.col {
+  flex: 1;
+  padding-right: 15px;
+}
+
+.col:last-child {
+  padding-right: 0;
+}
+
+.container {
+  width: 85%;
+  margin: 0 auto;
+}
