@@ -1,3 +1,7 @@
 .col {
   align-items: center;
 }
+
+.badges img {
+  width: 15vh;
+}

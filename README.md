@@ -17,3 +17,11 @@ This should be relatively exciting.
 
 ## Post-Project Thoughts
 
+I didn't make a very complex grid.
+I used flexbox and Normalize.css to meet the minimum project requirements.
+Flexbox is very powerful.
+I definitely want to try out CSS Grid combined with Flexbox going forward.
+
+In addition, I know it's not exactly like the main site.
+I'd need to download the custom font, change text colors, tweak font sizes, add some background colors and images, tweak the padding/margins, etc.
+I feel I am confident in those actions, so I want to move onward.

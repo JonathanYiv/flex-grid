@@ -8,8 +8,14 @@
 }
 
 .col {
+  display: flex;
+  flex-direction: column;
   flex: 1;
   padding-right: 15px;
+}
+
+.col.expand {
+  flex-direction: row;
 }
 
 .col:last-child {
@@ -17,6 +23,23 @@
 }
 
 .container {
-  width: 85%;
+  width: 75%;
   margin: 0 auto;
 }
+
+.horizontal-left {
+  justify-content: flex-start;
+}
+
+.horizontal-center {
+  justify-content: center;
+}
+
+.horizontal-right {
+  justify-content: flex-end;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  display: inline-block;
+}
+
